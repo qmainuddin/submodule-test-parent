@@ -1,3 +1,6 @@
 [submodule "submodule-test-child"]
 	path = submodule-test-child
 	url = git@github.com:qmainuddin/submodule-test-child.git
+[submodule "Microservices-Project"]
+	path = Microservices-Project
+	url = https://github.com/Pratima81/Microservices-Project.git
